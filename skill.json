@@ -1,0 +1,15 @@
+{
+  "name": "genpark-actor-mailbox-beam-supervisor-skill",
+  "version": "1.0.0",
+  "description": "Erlang/BEAM-inspired reduction-based preemptive actor mailbox runtime with lock-free MPSC queues, message dispatcher, and supervisor restart hierarchies.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "actor-model",
+    "erlang-beam",
+    "supervisor-tree",
+    "message-passing"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
